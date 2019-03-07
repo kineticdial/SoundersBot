@@ -9,7 +9,6 @@ import datetime
 import time
 import sys
 import traceback
-import json
 import configparser
 import re
 
